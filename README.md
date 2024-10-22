@@ -19,3 +19,10 @@ i) Aprimorar a lógica de programação, bem como outros atributos relacionados 
 ii) Praticar as principais técnicas de desenvolvimento e soft skills valorizadas na construção de softwares modernos em grandes empresas do âmbito tecnológico; 
 
 iii) Aplicar todas os conhecimentos abrangidos durante o semestre na construção de um sistema que automatize as tarefas efetuadas pelas empreitadas regionais de maneira, ao menos de início, arcaica, para maior aprofundamento nos anos seguintes como aposta para tema do Trabalho de Conclusão de Curso.
+
+## Imagens
+
+![Texto Alternativo](https://drive.google.com/file/d/1cOG5l5VpZ1ymczFIRKA6LuPz1DA-Z5-p/view?usp=sharing)
+![Texto Alternativo](https://drive.google.com/file/d/1cu9qKG8SjbznvFHrokKipKv7KfsQRFqh/view?usp=sharing)
+![Texto Alternativo](https://drive.google.com/file/d/1RV9wxQT55j79g_PvzmqVRR5FSsrOnrbi/view?usp=sharing)
+![Texto Alternativo](https://drive.google.com/file/d/19BCOCIVDtGvsTaikyiPeu1lQ5L09mkst/view?usp=sharing)
