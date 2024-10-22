@@ -1,6 +1,5 @@
 # Sistema WL
 
-### Introdução
 Apresenta-se um projeto para o desenvolvimento de um sistema capaz de integrar todas as tecnologias da linguagem C++ 
 abordadas em sala de aula e aplicá-las a uma situação real. Neste caso, uma holding que constitue-se de uma edícula e
 uma arena de beach tennis com funções distintas.
@@ -11,7 +10,7 @@ Cadastro de clientes e estadias.
 ### Arena de beach tennis:
 Cadastro de membros, controle de mensalidade e estoque de produtos e compras de cada membro.
 
-### Objetivos
+## Objetivos
 Os objetivos específicos, são: 
 
 i) Aprimorar a lógica de programação, bem como outros atributos relacionados ao C++, no desenvolvimento de uma aplicação correspondente a situações reais; 
