@@ -22,7 +22,4 @@ iii) Aplicar todas os conhecimentos abrangidos durante o semestre na construçã
 
 ## Imagens
 
-<img src="https://drive.google.com/file/d/1cOG5l5VpZ1ymczFIRKA6LuPz1DA-Z5-p/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1cu9qKG8SjbznvFHrokKipKv7KfsQRFqh/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1RV9wxQT55j79g_PvzmqVRR5FSsrOnrbi/view?usp=sharing">
-<img src="https://drive.google.com/file/d/19BCOCIVDtGvsTaikyiPeu1lQ5L09mkst/view?usp=sharing">
+<img width="25px" src="https://github.com/Joaogmaia02/sistema-grupo-wl/main/public/1?raw=true"/>
